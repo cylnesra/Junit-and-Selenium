@@ -1,4 +1,4 @@
-# Junit-and-Selenium
+# junit-and-selenium
 
 -- SIMPLE TEST AUTOMATİON APPLICATION WİTH JUNIT5 AND SELENIUM --
 
